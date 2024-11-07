@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @HarshPandey-5804<br>👀 I’m interested in Web development<br>🌱 I’m currently learning React, and PHP<br>📫 How to reach me ... My linkedin https://www.linkedin.com/in/harsh-pandey0504/<br>😄 Pronouns: ... He/Him<br>⚡ Fun fact: ... I love to talk:)
+👋 Hi, I’m @HarshPandey-5804<br>👀 I’m interested in Web development<br>🌱 I’m currently learning React and PHP<br>📫 How to reach me ... My linkedin: https://www.linkedin.com/in/harsh-pandey0504/ My Gmail: harshpandey0504@gmail.com<br>😄 Pronouns: ... He/Him<br>⚡ Fun fact: ... I love to talk:)
 
 
 ## 🌐 Socials:
